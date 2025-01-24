@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ## 🔭 I’m currently working on ...
-- Hyper-fixating on my wife
 - Making a quick launch application
 - Writing blog about developing the quick launch application
 - Client projects
