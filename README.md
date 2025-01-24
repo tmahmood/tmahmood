@@ -20,6 +20,7 @@ Being lazy, I use Intellij to write my blogs
 
 ## Blogs
 - [Going back to iced, after my tauri journey](blogs/2024/Nov/24.md)
+- [Random things reminded me about my shiny new blog](blogs/2024/Nov/24.md)
 
 <!--
 
