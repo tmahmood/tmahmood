@@ -5,8 +5,6 @@
 - Writing blog about developing the quick launch application
 - Client projects
 
-Being lazy, I use Intellij to write my blogs
-
 ## You might find these projects interesting!
 
 - [Taskwarrior Web](https://github.com/tmahmood/taskwarrior-web)
