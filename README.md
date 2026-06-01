@@ -16,6 +16,9 @@ Or,
 
 Click on the link and get the job done.
 
+[Checkout my resume](resume.md)
+
+
 ## You might find these projects interesting!
 
 - [Taskwarrior Web](https://github.com/tmahmood/taskwarrior-web)
