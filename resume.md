@@ -1,15 +1,29 @@
 # Tarin Mahmood
 Freelance Software Engineer, Open source contributor, Game developer
-
-GitHub: https://github.com/tmahmood/
-LinkedIn: https://www.linkedin.com/in/tarinmahmood
 Location Dhaka, Bangladesh
 
+- GitHub: https://github.com/tmahmood/
+- LinkedIn: https://www.linkedin.com/in/tarinmahmood
+
 ## Career Summary
-Fullstack Development, Automation, Backend Development, System Programming, Data Mining and Processing, Server administration, 
-Data classification and Natural Language Processing API development and Integration, Extensive experience in Cloud based full stack development using Spring Boot,
-RDBMS, Spring Security, HTTPS, JPA, OAuth2, Rest API, HATEOAS
-Automated media processing
+
+- Fullstack Development
+- Automation
+- Backend Development
+- System Programming
+- Data Mining and Processing
+- Server administration
+- Data classification and Natural Language Processing API development and Integration
+- Extensive experience in Cloud based full stack development using Spring Boot
+- RDBMS
+- Spring Security
+- HTTPS
+- JPA
+- OAuth2
+- Rest API
+- HATEOAS
+- Automated media processing
+
 
 ## Technical Skills
 
@@ -17,17 +31,13 @@ Automated media processing
 Python (15+ years), Rust (6 years), Java (7 years), TypeScript (7 years), PHP (6 years), C#, Ruby, VB.NET, Shell Scripts
 
 ### Frameworks
-Django, FastAPI, Flask, HTMX, Tailwindcss, Tokio, Axum, Actix, WASM, Diesel, Serde, Spring Boot, Jquery, Kohana,
-HighCharts, Nivo.Rock, Jquery-ui, material-ui, Bootstrap, ReactJS, VueJS, ASP.NET, NancyFx, Junit, AssertJ, Mockito,
-SQLAlchemy
+Django, FastAPI, Flask, HTMX, Tailwindcss, Tokio, Axum, Actix, WASM, Diesel, Serde, Spring Boot, Jquery, Kohana, HighCharts, Nivo.Rock, Jquery-ui, material-ui, Bootstrap, ReactJS, VueJS, ASP.NET, NancyFx, Junit, AssertJ, Mockito, SQLAlchemy
 
 ### Database
 PostgreSQL, MySQL/MariaDB, SQLite, Redis, MSSQL
 
 ### Others
-Spacy, Spring Security, Spring Rest API, RESTful, JPA, Machine Learning, nodejs, webpack, AWS, VirtualBox, MSSQL,
-microservice, TDD, Agile/SCRUM, CI/CD, Docker, Jenkins, Ansible, GIT, Gradle, GitHub, GitLab, IntelliJ IDEA, VIM, Celery,
-Jenkins, Weka, Jupyter, Amazon SP-API
+Spacy, Spring Security, Spring Rest API, RESTful, JPA, Machine Learning, nodejs, webpack, AWS, VirtualBox, MSSQL, microservice, TDD, Agile/SCRUM, CI/CD, Docker, Jenkins, Ansible, GIT, Gradle, GitHub, GitLab, IntelliJ IDEA, VIM, Celery, Jenkins, Weka, Jupyter, Amazon SP-API
 
 ### OS
 Linux, Windows, OSX
