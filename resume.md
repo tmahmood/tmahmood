@@ -2,8 +2,8 @@
 Freelance Software Engineer, Open source contributor, Game developer
 Location Dhaka, Bangladesh
 
-- GitHub: https://github.com/tmahmood/
-- LinkedIn: https://www.linkedin.com/in/tarinmahmood
+- [GitHub](https://github.com/tmahmood/)
+- [LinkedIn](https://www.linkedin.com/in/tarinmahmood)
 
 ## Career Summary
 
@@ -49,21 +49,21 @@ Linux, Windows, OSX
 
 Completed over 100 projects and 1500 recorded working hours
 
-- Formula 1 live and historical racing data extraction, and processing system. Python, PostgreSQL, FastAPI, SQLAlchemy: https://github.com/tmahmood/f1-data-pipeline
+- Formula 1 live and historical racing data extraction, and processing system. Python, PostgreSQL, FastAPI, SQLAlchemy: [Link](https://github.com/tmahmood/f1-data-pipeline)
 - Amazon SP-API based Product Supply chain management software, Python, PostgreSQL, Django, Microservices
-- GUI frontend for Taskwarrior: https://github.com/tmahmood/taskwarrior-web
+- GUI frontend for Taskwarrior: [Link](https://github.com/tmahmood/taskwarrior-web)
 - Implementation of POC multi-browser data storage using CRDT, Websocket and SQLite, using Rust + Wasm
 - Implemented high performance data mining and data processing system, user interface developed using Tauri and iced-rs
-- Rust implementation of failsafe lib: https://github.com/failsafe-lib/failsafe
+- Rust implementation of failsafe lib: [Link](https://github.com/failsafe-lib/failsafe)
 - Developed distributed web application, that can store data on the client side without server side database.
-- Contributing to Rust binding of Microsoft Playwright. Upgrade and Feature implementations: https://github.com/tmahmood/playwright-rust
+- Contributing to Rust binding of Microsoft Playwright. Upgrade and Feature implementations: [Link](https://github.com/tmahmood/playwright-rust)
 - Automated microservice deployment, the deployment system fetches code from GitHub repositories, builds docker containers, and deploy them in subdomains. Each subdomain is individually secured using Let's Encrypt Certificate, which is also generated automatically.
-- Scientific application development for research purpose: https://github.com/tmahmood/parasite_host_coevolution
+- Scientific application development for research purpose: [Link](https://github.com/tmahmood/parasite_host_coevolution)
 
 #### Contributed to
 
-◦ https://github.com/spaceandtimefdn/sxt-proof-of-sql/
-◦ https://github.com/drifting-in-space/stateroom/
+- [sxt-proof-of-sql](https://github.com/spaceandtimefdn/sxt-proof-of-sql/)
+- [stateroom](https://github.com/drifting-in-space/stateroom/)
 
 ### Principle Software Engineer, Democracy International
 July 2013 – Jan 2022
