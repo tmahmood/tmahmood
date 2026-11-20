@@ -5,12 +5,7 @@
 - Writing blog about developing the quick launch application
 - Client projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="assets/bonsai-dark.svg" />
-  <img src="assets/bonsai-light.svg" width="600"
-       alt="My GitHub bonsai" />
-</picture>
+
 
 [Checkout my resume](https://mtarin.com/resume/)
 
@@ -28,6 +23,13 @@
   - It uses optimized sqlite settings to get the best database performance
 
 But there are many more projects that I'm working on that are on my repositories.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="assets/bonsai-dark.svg" />
+  <img src="assets/bonsai-light.svg" width="600"
+       alt="My GitHub bonsai" />
+</picture>
 
 
 ## Blogs
