@@ -4,9 +4,9 @@
   "account_id": 34904,
   "range": {
     "from": "2008-01-01",
-    "to": "2026-11-19"
+    "to": "2026-11-22"
   },
-  "observed_on": "2026-11-19",
+  "observed_on": "2026-11-22",
   "collected_with": "gitbonsai 0.4.0",
   "language_colors": {
     "C": "#555555",
@@ -7317,6 +7317,11 @@
       "total": 1,
       "by_language": {},
       "private": 1
+    },
+    {
+      "date": "2026-11-20",
+      "total": 3,
+      "by_language": {}
     }
   ],
   "truncated_windows": [],
